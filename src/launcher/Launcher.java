@@ -23,8 +23,7 @@ import utils.TransactionSearcher;
  the classes have a debug boolean variable; setting it to false eliminates all the printout pseudo logging messages.
  
  @author Fabio Mentasti
- 
- 
+  
  PLEASE NOTE: in the assigned task, the formula contains an inverted question mark.
  
  looking for info on the web, I understood that the formula is, simply, 
